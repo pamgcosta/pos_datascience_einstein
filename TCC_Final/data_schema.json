@@ -1,0 +1,12 @@
+[
+{"name": "sample", "type": "INTEGER", "mode": "NULLABLE"},
+{"name": "dt_collection", "type": "STRING", "mode": "NULLABLE"},
+{"name": "dt_birth", "type": "STRING", "mode": "NULLABLE"},
+{"name": "age", "type": "INTEGER", "mode": "NULLABLE"},
+{"name": "city", "type": "STRING", "mode": "NULLABLE"},
+{"name": "sex", "type": "STRING", "mode": "NULLABLE"},
+{"name": "method1_cmia_screening", "type": "STRING", "mode": "NULLABLE"},
+{"name": "method1_elisa_screening", "type": "STRING", "mode": "NULLABLE"},
+{"name": "method2_immunoblot_confirmatory", "type": "STRING", "mode": "NULLABLE"},
+{"name": "method3_rtpcr_confirmatory", "type": "STRING", "mode": "NULLABLE"}
+]
